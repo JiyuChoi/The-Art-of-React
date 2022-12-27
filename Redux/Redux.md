@@ -1,3 +1,8 @@
+## Redux란
+👉🏻 Flux 패턴을 이용하여 상태 관리를 할 수 있도록 도와주는 라이브러리
+
+</br>
+
 ## Redux를 사용하는 이유
 
 ### 1. Props 귀찮을 때
@@ -8,7 +13,7 @@
 - state를 저장하는 store.js 파일 생성 → 모든 component들이 직접 꺼내서 사용 가능 (useSelector 사용)
 
    즉, 모든 component가 props 없이 state 직접 꺼내서 사용 가능
-<br>
+</br>
 
 ### 2. 상태 관리가 용이
 - state 관리가 용이하다는 뜻
