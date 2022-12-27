@@ -1,4 +1,4 @@
-# react-redux의 hook
+# React-Redux의 Hooks
 
 ## 👉🏻 react-redux의 hook 적용
 
